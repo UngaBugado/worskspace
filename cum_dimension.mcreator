@@ -15,6 +15,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "white"
+    },
+    {
+      "name": "White2",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_2"
     }
   ],
   "variable_elements": [],
@@ -22,7 +30,8 @@
   "language_map": {
     "en_us": {
       "block.cum_dimension.cum_block": "Cum Block",
-      "block.cum_dimension.white": "White"
+      "block.cum_dimension.white": "White",
+      "block.cum_dimension.white_2": "White 2"
     }
   },
   "foldersRoot": {

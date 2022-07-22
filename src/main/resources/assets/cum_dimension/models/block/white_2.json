@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cum_dimension:blocks/white",
+    "up": "cum_dimension:blocks/white",
+    "north": "cum_dimension:blocks/white",
+    "east": "cum_dimension:blocks/white",
+    "south": "cum_dimension:blocks/white",
+    "west": "cum_dimension:blocks/white",
+    "particle": "cum_dimension:blocks/white"
+  }
+}
