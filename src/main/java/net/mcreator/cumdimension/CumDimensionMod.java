@@ -26,6 +26,9 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
+import net.mcreator.cumdimension.init.CumDimensionModItems;
+import net.mcreator.cumdimension.init.CumDimensionModBlocks;
+
 import java.util.function.Supplier;
 import java.util.function.Function;
 import java.util.function.BiConsumer;
@@ -42,6 +45,8 @@ public class CumDimensionMod {
 	public CumDimensionMod() {
 
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
+		CumDimensionModBlocks.REGISTRY.register(bus);
+		CumDimensionModItems.REGISTRY.register(bus);
 
 	}
 
