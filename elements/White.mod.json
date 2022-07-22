@@ -2,12 +2,12 @@
   "_fv": 30,
   "_type": "block",
   "definition": {
-    "texture": "nigerblock",
-    "textureTop": "nigerblock",
-    "textureLeft": "nigerblock",
-    "textureFront": "nigerblock",
-    "textureRight": "nigerblock",
-    "textureBack": "nigerblock",
+    "texture": "white",
+    "textureTop": "white",
+    "textureLeft": "white",
+    "textureFront": "white",
+    "textureRight": "white",
+    "textureBack": "white",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -33,7 +33,7 @@
         "subtract": false
       }
     ],
-    "name": "Cum Block",
+    "name": "White",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,

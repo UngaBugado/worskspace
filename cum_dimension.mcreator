@@ -7,13 +7,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "cum_block"
+    },
+    {
+      "name": "White",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.cum_dimension.cum_block": "Cum Block"
+      "block.cum_dimension.cum_block": "Cum Block",
+      "block.cum_dimension.white": "White"
     }
   },
   "foldersRoot": {
@@ -37,5 +46,5 @@
     "modElementsPackage": "net.mcreator.cumdimension",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202200120510
+  "mcreatorVersion": 202200225609
 }
