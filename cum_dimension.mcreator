@@ -23,6 +23,17 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "white_2"
+    },
+    {
+      "name": "LeCumDimension",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "le_cum_dimension",
+      "metadata": {
+        "ep": true
+      }
     }
   ],
   "variable_elements": [],
@@ -31,7 +42,8 @@
     "en_us": {
       "block.cum_dimension.cum_block": "Cum Block",
       "block.cum_dimension.white": "White",
-      "block.cum_dimension.white_2": "White 2"
+      "block.cum_dimension.white_2": "White 2",
+      "item.cum_dimension.le_cum_dimension": "Le Cum Dimension Igniter"
     }
   },
   "foldersRoot": {
